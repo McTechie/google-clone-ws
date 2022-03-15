@@ -1,0 +1,19 @@
+- [ ] Understand Starter Code
+- [ ] Building the Landing Page
+  - [ ] Header
+  - [ ] Body
+  - [ ] Footer
+- [ ] Building the Search Page
+  - [ ] Header
+  - [ ] Search Results
+- [ ] Building Search Functionality
+  - [ ] **getServerSideProps**
+  - [ ] [Generate API Key](https://developers.google.com/custom-search/v1/using_rest)
+  - [ ] [Generate Context Key](https://cse.google.com/cse/create/new)
+  - [ ] Create data constant - https://www.googleapis.com/customsearch/v1?key=${}&cx=${}&q=${}
+  - [ ] Utilize Dummy Data to limit API exhaustion
+- [ ] Building Pagination Functionality
+- [ ] Deploy on Vercel
+  - [ ] Commit Code
+  - [ ] Push to GitHub
+  - [ ] Deploy on Vercel
